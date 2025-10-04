@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Muhammad Hasby Ash Shiddiqie 👋
+
+![mhdhsbyy](img/foto.jpg)
 
 <!--
 **mhdhsbyy/mhdhsbyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... **@aslabtib-v2**
+- 🌱 I’m currently learning ... **Laravel** Framework
