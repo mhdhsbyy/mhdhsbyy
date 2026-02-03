@@ -1,64 +1,66 @@
-<!-- =============================== -->
-<!-- DARK MOTION AESTHETIC THEME -->
-<!-- =============================== -->
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23968
+Fork on GitHub
+8239
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Dark+Motion+Aesthetic;Elegant+%26+Animated+Theme;Welcome+to+My+GitHub" />
-</h1>
+back to edit
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header&text=&fontSize=0" />
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm Muhammad Hasby Ash Shiddiqie</h1>
+<h3 align="center">Informatics Engineering Student | Web Developer</h3>
+
+- 🌱 I’m currently learning **Laravel, React JS**
+
+- 📫 How to reach me **mhdhsbyy@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mhdhsbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdhsbyy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad hasby ash shiddiqie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hasby ash shiddiqie" height="30" width="40" /></a>
+<a href="https://fb.com/hsby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hsby" height="30" width="40" /></a>
+<a href="https://instagram.com/mhdhsbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdhsbyy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mhdhsbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhdhsbyy" height="30" width="40" /></a>
+<a href="https://discord.gg/mhdhsbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mhdhsbyy" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github&theme=dark" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhdhsbyy&show_icons=true&locale=en&layout=compact" alt="mhdhsbyy" /></p>
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=9BA3AF&center=true&vCenter=true&width=600&lines=Smooth+Animation;Dark+Elegant+UI;Minimal+but+Powerful" />
-</h2>
-
----
-
-## ⚡ Animated GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" width="45%" />
-</p>
-
----
-
-## 🌌 Animated Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&line=58A6FF&point=9BA3AF" />
-</p>
-
----
-
-## 🐍 Contribution Snake (ANIMATED)
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## ✨ Glow Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Dark-UI-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Animated-Theme-161B22?style=for-the-badge&logo=css3&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Clean-Code-58A6FF?style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer&text=&fontSize=0" />
-</p>
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
